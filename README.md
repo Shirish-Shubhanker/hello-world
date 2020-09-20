@@ -1,3 +1,4 @@
 # hello-world
-Going through Github basics
+Going through Github basics 
+
 Learnig how to commit changes
